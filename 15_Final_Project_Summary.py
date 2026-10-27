@@ -1,0 +1,1 @@
+print("Stock Market Analysis Project Completed")
